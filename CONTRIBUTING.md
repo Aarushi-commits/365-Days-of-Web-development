@@ -2,27 +2,28 @@
 365 Days of Web Development (ECWoC)
 
 Thank you for your interest in contributing to 365 Days of Web Development.
-This document explains how to contribute correctly and ECWoC-specific rules that must be followed.
+This document explains how to contribute correctly, the required structure, and the rules for ECWoC participation.
 
-📌 Mandatory Contribution Flow
+🚨 Important Rule
 
-⚠️ Do NOT open a Pull Request directly.
+Do NOT open a Pull Request directly.
 
-All contributors must follow this order:
+All contributors must follow the process below.
+PRs that skip any step will be closed without review.
+
+🔁 Contribution Flow (Mandatory)
 
 Create an Issue (Project Proposal)
 
-Wait for allotment / approval
+Wait for project allotment / approval
 
 Start working only after assignment
 
 Submit a Pull Request
 
-❌ PRs submitted without issue approval will be closed.
+🧾 Step 1: Create an Issue
 
-🧾 Step 1: Create an Issue (Required)
-
-Before starting any work, create an Issue mentioning:
+Before writing any code, open a new Issue and include:
 
 Track: Animation or Product
 
@@ -30,30 +31,47 @@ Phase & Day number
 
 Project title
 
-Brief description of what you plan to build
+Short project description
 
 Tech stack
 
-This avoids duplication and helps maintainers guide you early.
+This helps:
 
-🛠 Step 2: Setup & Work
-Fork and Clone
+avoid duplicate work
+
+maintain roadmap quality
+
+ensure fair ECWoC allotment
+
+🛠 Step 2: Setup & Work (Terminal Commands)
+🔹 Fork & Clone the Repository
 git clone https://github.com/<your-username>/365-Days-of-Web-development.git
 cd 365-Days-of-Web-development
 
-Create a Branch
+🔹 Create a New Branch
 git checkout -b username-day-xx
 
+
+Branch naming format:
+
+username-day-xx
+
 🎬 Animation Track — Required Structure
+
+Use this structure strictly for animation projects:
+
 animation-track/
 └── <PHASE_NAME>/
     └── day-xx-project-name/
         ├── index.html
         ├── style.css
-        ├── script.js (if needed)
+        ├── script.js   (if required)
         └── README.md
 
 🏗️ Product Track — Required Structure
+
+Use this structure strictly for product projects:
+
 product-track/
 └── <PHASE_NAME>/
     └── day-xx-project-name/
@@ -61,34 +79,49 @@ product-track/
         ├── index.html
         ├── style.css
         ├── script.js
-        ├── server.js (if backend)
-        ├── routes/ (if backend)
+        ├── server.js   (if backend)
+        ├── routes/     (if backend)
         └── controllers/ (if backend)
 
 📝 Code Comments & Documentation (Mandatory)
 
-This is a learning-focused repository.
+This repository is a learning roadmap, not just a code dump.
 
 Contributors must:
 
 Add comments explaining why the code works
 
-Comment complex logic, animations, API flow, and conditions
+Comment:
+
+complex logic
+
+animations & calculations
+
+API flow & conditions
 
 Use simple, beginner-friendly language
 
-📌 PRs may be rejected if code lacks explanation.
+PRs may be rejected if code lacks explanation.
 
 📦 Commit Rules
 
-Use clear, meaningful commit messages.
+Use clear and meaningful commit messages.
 
 git add .
-git commit -m "Day xx: short description of work"
+git commit -m "Day xx: short description of the work"
 
-🚀 Pull Request Rules
 
-When opening a PR:
+❌ Avoid messages like:
+
+update
+
+final
+
+done
+
+🚀 Step 3: Open a Pull Request
+
+When creating a PR:
 
 Mention the approved Issue number
 
@@ -96,9 +129,9 @@ Mention track + phase + day
 
 Briefly explain what you built
 
-❌ PRs without an approved Issue reference will be rejected.
+PRs without an approved Issue reference will be rejected.
 
-❌ What Will Not Be Accepted
+❌ What Will NOT Be Accepted
 
 PR without issue approval
 
@@ -106,11 +139,18 @@ Copy-pasted tutorial code
 
 Missing README.md
 
-Breaking folder structure
+Broken folder structure
 
 Duplicate or low-effort submissions
 
 🧠 Final Note
 
-This repository values learning, clarity, and structure over speed.
+This project values:
+
+Learning over speed
+
+Clarity over complexity
+
+Structure over randomness
+
 Follow the process, document your work, and be open to feedback.
