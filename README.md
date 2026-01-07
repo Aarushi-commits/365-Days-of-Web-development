@@ -1,95 +1,58 @@
 🌐 365 × 2 Web Development Roadmap
-An Open-Source, Community-Built Learning Path
 
+Animation Engineering × Product Engineering
 
+An open-source repository that defines a structured learning roadmap for modern web development.
+This project is meant to be used as a reference curriculum, not just a code dump.
 
-📖 About This Project
+📌 What This Repository Is
 
-The 365 × 2 Web Development Roadmap is an open-source initiative aimed at creating a clear, structured, and practical learning path for anyone who wants to become a modern web developer.
+This repository provides:
 
-Instead of random tutorials or isolated projects, this repository provides:
+A clear, project-based roadmap for learning web development
 
--A day-wise progression
+Day-wise, phase-wise progression
 
--Real projects, not toy examples
+Real projects instead of isolated tutorials
 
--Coverage of both creative and engineering aspects of web development
+Coverage of both UI motion and product engineering
 
--A roadmap that evolves through community contribution and review
+Anyone can follow this roadmap independently, at their own pace.
 
-This repository is not just for contributors — it is meant to be used as a public reference roadmap by students, self-learners, and institutions.
+🧭 Why Two Tracks?
 
-🎯 Purpose & Vision :-
+Modern web developers need to understand both experience and engineering.
 
-Modern web development requires more than just knowing a framework.
+🎬 Animation Track
 
-This roadmap is built around the belief that a strong web developer must understand:
-How interfaces feel → Motion, animation, interaction
+Covers:
 
-How systems work → Architecture, data, users, scalability
+UI motion and micro-interactions
 
-Our Goal :- 
+Scroll-based effects
 
-To create a single, open, structured roadmap that:
-
-Takes a learner from zero to production-ready
-
-Emphasizes learning by building
-
-Is maintainable, reviewable, and extensible
-
-Remains framework-agnostic, focusing on fundamentals first
-
-🧭 Why Two Parallel Tracks?
-
-The roadmap is divided into two complementary tracks, maintained inside the same repository.
-
-🎬 Animation Web Development Track
-
-Focuses on:
-
-Motion principles
-
-Micro-interactions
-
-Scroll-based storytelling
-
-Canvas, SVG, and WebGL
+SVG, Canvas, and WebGL
 
 Performance-aware animations
 
-This track helps learners understand how users emotionally experience the web.
+🏗️ Product Track
 
-🏗️ Product Web Development Track
+Covers:
 
-Focuses on:
+Frontend applications
 
-Real-world frontend applications
+Backend APIs
 
-Backend systems & APIs
+Authentication and data flow
 
-Authentication & authorization
+Full-stack systems and deployment
 
-Full-stack architecture
+Both tracks live in the same repository and progress in parallel.
 
-Deployment and scalability
-
-This track helps learners understand how real products are built and maintained.
-
-🗂️ Repository Structure
-
-The repository is organized exactly like a learning curriculum, with clearly named projects and day ranges.
-
+🗂️ Repository Structure (Simplified)
 365x2-web-development/
 │
-├── README.md                    # Project overview & philosophy
-├── ROADMAP.md                   # Day-wise learning goals
-├── CONTRIBUTING.md              # Contribution guidelines
-│
-├── animation-track/             # 🎬 Animation Web Development
-│   ├── README.md
-│   ├── gallery-log.md
-│   ├── animation-resources.md
+├── animation-track/
 │   ├── 01_MOTION_FOUNDATIONS/
 │   ├── 02_UI_ANIMATION_SYSTEMS/
 │   ├── 03_SCROLL_AND_STORYTELLING/
@@ -97,130 +60,42 @@ The repository is organized exactly like a learning curriculum, with clearly nam
 │   ├── 05_3D_AND_WEBGL/
 │   └── 06_ANIMATION_CAPSTONE/
 │
-├── product-track/               # 🏗️ Product Web Development
-│   ├── README.md
-│   ├── product-resources.md
+├── product-track/
 │   ├── 01_WEB_FOUNDATIONS/
 │   ├── 02_FRONTEND_PRODUCTS/
 │   ├── 03_BACKEND_AND_APIS/
 │   ├── 04_FULLSTACK_SYSTEMS/
 │   └── 05_PRODUCT_CAPSTONE/
 │
+├── ROADMAP.md
+├── CONTRIBUTING.md
 └── shared/
-    ├── ui-patterns/
-    ├── animation-snippets/
-    ├── utilities/
-    └── documentation/
 
 
-Each day folder represents a single learning objective or project, and includes:
+Each folder contains day-wise projects, with code and a short explanation.
 
-Source code
+📅 How to Use This Roadmap 
 
-Assets (if required)
+Follow it day-by-day or phase-by-phase
 
-A short README.md explaining what was built and why
+Skip ahead if you already know a topic
 
-📅 Roadmap Philosophy
+Use it as a checklist for skills, not a deadline
 
-This roadmap spans 365 days per track, but it is self-paced.
+The roadmap is self-paced.
 
-Learners can:
+🤝 Contributing
 
-Follow it day-by-day
+Contributions are welcome if they:
 
-Use it as a reference curriculum
+Fit the learning progression
 
-Pick phases relevant to their goals
+Are clearly documented
 
-Learning Progression
+Add educational value
 
-Foundations → Systems → Advanced Concepts → Capstone Projects
+Please read CONTRIBUTING.md before opening a PR.
 
-Concepts are revisited with increasing complexity
+🎯 Goal of This Project
 
-Emphasis on clarity, maintainability, and reasoning
-
-🧠 Who Is This For?
-
-This roadmap is suitable for:
-
-Beginners starting from scratch
-
-Students looking for a structured path
-
-Self-taught developers filling gaps
-
-Contributors who want real open-source experience
-
-Mentors and organizations designing curricula
-
-🤝 How the Community Helps
-
-This roadmap improves through open-source collaboration.
-
-Contributors can:
-
-Add new projects
-
-Improve documentation
-
-Optimize existing solutions
-
-Review and refine roadmap structure
-
-Suggest better sequencing of concepts
-
-All contributions are reviewed to ensure:
-
-Conceptual correctness
-
-Progressive difficulty
-
-Educational clarity
-
-📌 Contribution Expectations
-
-To maintain roadmap quality:
-
-Each contribution must align with the learning objective
-
-Code must be readable and documented
-
-PRs must explain what is being added and why
-
-Low-effort or duplicate content is discouraged
-
-Detailed rules are available in CONTRIBUTING.md.
-
-🌱 Long-Term Vision
-
-Our aim is to make this repository:
-
-A reference roadmap for web development
-
-A community-validated curriculum
-
-A bridge between tutorial learning and real engineering
-
-A living document that evolves with the web
-
-🧠 Core Principle
-
-Learn by building.
-Build with intention.
-Understand before optimizing.
-
-📬 Getting Started :-
-
-Explore the ROADMAP.md
-
-Choose a track or phase
-
-Start building
-
-Use the repository as a guide, not a race .
-
-How interfaces feel → Motion, animation, interaction
-
-How systems work → Architecture, data, users, scalability
+To maintain a clear, open, and practical roadmap that helps people learn web development the right way — by building real things in the right order.
