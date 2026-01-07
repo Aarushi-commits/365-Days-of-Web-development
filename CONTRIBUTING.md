@@ -1,200 +1,126 @@
-🤝 Contributing to 365 Days of Web Development
-ECWoC 2025 | Official Contribution Guide
+🤝 Contributing Guidelines
 
-Welcome! This document explains how to contribute, what structure to follow, and mandatory rules for contributors participating through ECWoC 2025.
+Thank you for your interest in contributing to
+100-Days-of-Creative-Code-Algorithmic-Art
 
-🚨 Important Notice
+This project exists to make coding feel clearer, less frustrating, and more collaborative.
+Every contribution—big or small—helps move us closer to that goal.
 
-❗ Do NOT open a Pull Request directly.
+Whether you’re:
 
-All contributors must follow the defined workflow.
-Pull Requests that do not follow this process will be closed without review.
+fixing a typo
 
-🔁 Contribution Workflow (Mandatory)
+improving UI
 
-All contributions must follow this exact order:
+optimizing backend logic
 
-📝 Create an Issue (Project Proposal)
+or adding a brand-new feature
 
-⏳ Wait for approval / allotment
+—you’re welcome here.
 
-🛠️ Start working after assignment
+🚀 How You Can Contribute
 
-🚀 Submit a Pull Request
+You can contribute in many ways:
 
-🧾 Step 1: Create an Issue (Project Proposal)
+🐛 Fix bugs
 
-Before writing any code, open a new Issue and clearly mention:
+✨ Add new features
 
-Track:
+🎨 Improve UI/UX
 
-🎬 Animation
+📄 Improve documentation
 
-🏗️ Product
+⚡ Optimize performance
 
-Phase & Day number
+🧪 Add tests
 
-Project title
+🌍 Improve accessibility or responsiveness
 
-Short description of what you plan to build
+If you’re unsure where to start, check the Issues tab for:
 
-Tech stack you will use
+good first issue
 
-✅ Why this is required
+help wanted
 
-Prevents duplicate contributions
+📌 Issue Assignment
 
-Helps maintain roadmap quality
+Before starting any work:
 
-Ensures fair project allotment (ECWoC rule)
+Comment on the issue you want to work on
 
-🛠️ Step 2: Local Setup (Terminal Commands)
-🔹 Fork & Clone the Repository
-git clone https://github.com/<your-username>/365-Days-of-Web-development.git
-cd 365-Days-of-Web-development
+Wait for a maintainer to assign the issue to you
 
-🔹 Create a New Branch
-git checkout -b username-day-xx
+This helps avoid:
 
+duplicate work
 
-Branch naming format:
+conflicts between contributors
 
-username-day-xx
+📦 Getting Started
+1️⃣ Fork the Repository
 
-Example: alex-day-45
+Click the Fork button at the top-right of this repository
 
-🎬 Animation Track — Required Project Structure
+This creates a copy of the project under your GitHub account
 
-Use this structure strictly for animation-based projects:
+2️⃣ Clone Your Fork
+git clone https://github.com/user-name/100-Days-of-Creative-Code-Algorithmic-Art.git
+cd repository-name
 
-animation-track/
-└── <PHASE_NAME>/
-    └── day-xx-project-name/
-        ├── index.html
-        ├── style.css
-        ├── script.js   (if required)
-        └── README.md
+3️⃣ 🌱 Create a Branch
 
-Animation Project README must include:
+Always create a new branch for your work:
 
-Project title
+git checkout -b feature/your-feature-name
 
-Day number
+🛠️ Making Changes
 
-Objective
+While working on your contribution:
 
-Animation concepts used
+Keep changes focused and minimal
 
-How to run the project
+Follow the existing code style and structure
 
-🏗️ Product Track — Required Project Structure
+Add comments where necessary
 
-Use this structure strictly for product-based projects:
+Update documentation if your change affects usage
 
-product-track/
-└── <PHASE_NAME>/
-    └── day-xx-project-name/
-        ├── README.md
-        ├── index.html
-        ├── style.css
-        ├── script.js
-        ├── server.js        (if backend)
-        ├── routes/          (if backend)
-        └── controllers/     (if backend)
+🧪 Testing
 
-Product Project README must include:
+Before submitting your work:
 
-Project title
+Make sure the project runs without errors
 
-Day number
+Test your changes locally
 
-Problem statement
+Ensure no existing functionality is broken
 
-Features
+✅ Commit Guidelines
 
-Tech stack
+Write clear and meaningful commit messages:
 
-How to run (frontend / backend)
+git commit -m "Fix: prevent editor crash on empty input"
 
-📝 Code Comments & Documentation (Mandatory)
+🔀 Submitting a Pull Request
 
-This repository is a learning roadmap, not just a code archive.
+1️⃣ Push your branch:
 
-All contributors must:
+git push origin feature/your-feature-name
 
-🧠 Explain why the code works, not just what it does
 
-✍️ Add comments for:
+2️⃣ Open a Pull Request (PR) against the main branch
 
-complex logic
+3️⃣ In the PR description, include:
 
-animations & calculations
+What changes you made
 
-API routes & data flow
+Why the change is needed
 
-authentication or validation logic
+Screenshots (if UI-related)
 
-🗣️ Use simple, beginner-friendly language
+Related issue number (if applicable)
 
-📌 Pull Requests may be rejected if important logic is not explained.
+🤝 Code of Conduct
 
-📦 Commit Message Guidelines
-
-Use clear, meaningful commit messages.
-
-git add .
-git commit -m "Day xx: short, meaningful description"
-
-✅ Good Examples
-
-Day 60: Scroll-based parallax landing page
-
-Day 112: JWT authentication API
-
-❌ Bad Examples
-
-update
-
-final
-
-done
-
-🚀 Step 3: Open a Pull Request
-
-When creating your Pull Request:
-
-🔗 Reference the approved Issue number
-
-📍 Mention track + phase + day
-
-📝 Briefly explain what you built
-
-❗ PRs without an approved Issue reference will be rejected.
-
-❌ What Will NOT Be Accepted
-
-❌ Pull Requests without issue approval
-
-❌ Missing README.md
-
-❌ Breaking the folder structure
-
-❌ Duplicate or low-effort submissions
-
-🧠 Core Principles
-
-This project values:
-
-Learning over speed
-
-Clarity over complexity
-
-Structure over randomness
-
-Consistency over shortcuts
-
-🙌 Final Note
-
-By contributing here, you are helping build a public learning roadmap for thousands of learners.
-
-Follow the process, document your work, and contribute with intent.
+By contributing, you agree to follow the project’s Code of Conduct.
+Be respectful, inclusive, and constructive in all discussions.
