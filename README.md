@@ -6,9 +6,12 @@
 This repository is a public, open-source roadmap for anyone who wants to learn web development in a structured and practical way.
 
 Instead of:
+
 ❌ random tutorials
+
 ❌ disconnected projects
-❌ framework-hopping
+
+❌ framework hopping
 
 This roadmap focuses on:
 
@@ -24,7 +27,7 @@ You can follow it, fork it, or contribute to improving it.
 
 🧭 Why “365 × 2”?
 
-Because modern web developers need two equally important skills:
+Because modern web developers need two equally important skill sets.
 
 🎬 Animation Web Development
 
@@ -70,13 +73,13 @@ How the web works
 
 📅 How to use this roadmap
 
-You can use this repository in any of these ways:
+You can use this repository in multiple ways:
 
 🔁 Follow it day-by-day
 
-⏩ Jump to any phase you need
+⏩ Jump directly to a specific phase
 
-📋 Use it as a skills checklist
+📋 Use it as a skill checklist
 
 🧠 Reference it while building your own projects
 
@@ -84,7 +87,7 @@ You can use this repository in any of these ways:
 
 🤝 Contributing
 
-This roadmap grows through community contributions.
+This roadmap improves through community contributions.
 
 You can contribute by:
 
@@ -92,7 +95,7 @@ You can contribute by:
 
 📝 Improving documentation
 
-🛠️ Refining project structure
+🛠️ Refining structure
 
 🔍 Reviewing existing work
 
@@ -114,9 +117,9 @@ This repository exists to:
 
 ✅ provide clarity
 
-✅ enforce order
+✅ enforce learning order
 
-✅ encourage real building
+✅ encourage real project building
 
 🚀 Getting Started
 
@@ -128,4 +131,4 @@ This repository exists to:
 
 🛠️ Start building
 
-<p align="center"> <b>Learn systematically. Build consistently. Grow in public. 🌱</b> </p>
+<p align="center"> <b> Learn systematically.<br/> Build consistently.<br/> Grow in public. 🌱 </b> </p>
