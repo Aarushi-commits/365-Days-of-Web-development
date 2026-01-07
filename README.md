@@ -72,13 +72,12 @@ How the web works
 👉 Both tracks run in parallel, inside one repository.
 
 <br/>
-```365-Days-of-Web-development/
+365-Days-of-Web-development/
 │
-├── animation-track/        🎬 Animation Web Development
-│   ├── README.md           # Track overview & goals
-│   ├── gallery-log.md      # GIFs / screenshots
+├── animation-track/
+│   ├── README.md
+│   ├── gallery-log.md
 │   ├── animation-resources.md
-│   │
 │   ├── 01_MOTION_FOUNDATIONS/
 │   ├── 02_UI_ANIMATION_SYSTEMS/
 │   ├── 03_SCROLL_AND_STORYTELLING/
@@ -86,26 +85,25 @@ How the web works
 │   ├── 05_3D_AND_WEBGL/
 │   └── 06_ANIMATION_CAPSTONE/
 │
-├── product-track/          🏗️ Product Web Development
+├── product-track/
 │   ├── README.md
 │   ├── product-resources.md
-│   │
 │   ├── 01_WEB_FOUNDATIONS/
 │   ├── 02_FRONTEND_PRODUCTS/
 │   ├── 03_BACKEND_AND_APIS/
 │   ├── 04_FULLSTACK_SYSTEMS/
 │   └── 05_PRODUCT_CAPSTONE/
 │
-├── shared/                 ♻️ Shared Resources
+├── shared/
 │   ├── ui-patterns/
 │   ├── animation-snippets/
 │   ├── utilities/
 │   └── documentation/
 │
-├── ROADMAP.md              📅 Day-wise learning plan
-├── CONTRIBUTING.md         🤝 Contribution rules
-├── CODE_OF_CONDUCT.md      📜 Community guidelines
-└── README.md               📖 Project overview```
+├── ROADMAP.md
+├── CONTRIBUTING.md
+├── CODE_OF_CONDUCT.md
+└── README.md
 
 <br/>
 <br/>
