@@ -14,6 +14,43 @@
 🏗️ Product Web Development
 <p><b>Focus:</b> How the web <i>works</i></p> <ul> <li>🧩 Frontend applications</li> <li>🔌 Backend APIs</li> <li>🔐 Authentication & authorization</li> <li>🚀 Full-stack systems</li> </ul> <hr/>
 📂 Repository Structure
-<pre> 365-Days-of-Web-development/ │ ├── animation-track/ 🎬 UI motion & visual engineering ├── product-track/ 🏗️ Real-world web applications ├── shared/ ♻️ Reusable patterns & utilities │ ├── ROADMAP.md 📅 Day-wise learning plan ├── CONTRIBUTING.md 🤝 Contribution guidelines └── README.md 📖 Project overview </pre> <p> Each track is divided into <b>phases</b>, and each phase contains <b>day-wise projects</b> with clear goals. </p> <hr/>
+<pre> 365-Days-of-Web-development/
+│
+├── animation-track/                     🎬 Animation Web Development
+│   │
+│   ├── README.md                        # Track overview & learning goals
+│   ├── gallery-log.md                   # GIFs / screenshots of outputs
+│   ├── animation-resources.md           # Motion principles & references
+│   │
+│   ├── 01_MOTION_FOUNDATIONS/           # CSS animations & micro-interactions
+│   ├── 02_UI_ANIMATION_SYSTEMS/         # Reusable UI motion patterns
+│   ├── 03_SCROLL_AND_STORYTELLING/      # Scroll-triggered experiences
+│   ├── 04_CANVAS_AND_SVG/               # Canvas, SVG & data-driven visuals
+│   ├── 05_3D_AND_WEBGL/                 # 3D scenes & WebGL experiments
+│   └── 06_ANIMATION_CAPSTONE/           # Large-scale animation projects
+│
+├── product-track/                       🏗️ Product Web Development
+│   │
+│   ├── README.md                        # Track overview & expectations
+│   ├── product-resources.md             # Architecture, UX & system design
+│   │
+│   ├── 01_WEB_FOUNDATIONS/              # HTML, CSS, JS fundamentals
+│   ├── 02_FRONTEND_PRODUCTS/            # SPA & component-based apps
+│   ├── 03_BACKEND_AND_APIS/             # Servers, APIs & authentication
+│   ├── 04_FULLSTACK_SYSTEMS/            # End-to-end web applications
+│   └── 05_PRODUCT_CAPSTONE/             # Production-ready product
+│
+├── shared/                              ♻️ Shared Utilities & References
+│   │
+│   ├── ui-patterns/                     # Reusable UI components
+│   ├── animation-snippets/              # Common animation utilities
+│   ├── utilities/                       # Helper functions & configs
+│   └── documentation/                   # Guides & best practices
+│
+├── ROADMAP.md                           📅 Day-wise learning plan
+├── CONTRIBUTING.md                      🤝 Contribution guidelines
+├── CODE_OF_CONDUCT.md                   📜 Community guidelines
+└── README.md                            📖 Project overview
+📖 Project overview </pre> <p> Each track is divided into <b>phases</b>, and each phase contains <b>day-wise projects</b> with clear goals. </p> <hr/>
 🚀 Getting Started
 <ol> <li>⭐ Star the repository</li> <li>📖 Read <b>ROADMAP.md</b></li> <li>🎯 Choose a track (or both)</li> <li>🛠 Start building</li> </ol> <hr/> <div align="center"> <b> Learn systematically.<br/> Build consistently.<br/> Grow in public. 🌱 </b> </div>
