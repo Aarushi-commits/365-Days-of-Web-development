@@ -75,36 +75,42 @@ How the web works
 <pre>
 365-Days-of-Web-development/
 │
-├── animation-track/
-│   ├── README.md
-│   ├── gallery-log.md
-│   ├── animation-resources.md
-│   ├── 01_MOTION_FOUNDATIONS/
-│   ├── 02_UI_ANIMATION_SYSTEMS/
-│   ├── 03_SCROLL_AND_STORYTELLING/
-│   ├── 04_CANVAS_AND_SVG/
-│   ├── 05_3D_AND_WEBGL/
-│   └── 06_ANIMATION_CAPSTONE/
+├── animation-track/                     🎬 Animation Web Development
+│   │
+│   ├── README.md                        # Track overview & learning goals
+│   ├── gallery-log.md                   # GIFs / screenshots of outputs
+│   ├── animation-resources.md           # Motion principles & references
+│   │
+│   ├── 01_MOTION_FOUNDATIONS/           # CSS animations & micro-interactions
+│   ├── 02_UI_ANIMATION_SYSTEMS/         # Reusable UI motion patterns
+│   ├── 03_SCROLL_AND_STORYTELLING/      # Scroll-triggered experiences
+│   ├── 04_CANVAS_AND_SVG/               # Canvas, SVG & data-driven visuals
+│   ├── 05_3D_AND_WEBGL/                 # 3D scenes & WebGL experiments
+│   └── 06_ANIMATION_CAPSTONE/           # Large-scale animation projects
 │
-├── product-track/
-│   ├── README.md
-│   ├── product-resources.md
-│   ├── 01_WEB_FOUNDATIONS/
-│   ├── 02_FRONTEND_PRODUCTS/
-│   ├── 03_BACKEND_AND_APIS/
-│   ├── 04_FULLSTACK_SYSTEMS/
-│   └── 05_PRODUCT_CAPSTONE/
+├── product-track/                       🏗️ Product Web Development
+│   │
+│   ├── README.md                        # Track overview & expectations
+│   ├── product-resources.md             # Architecture, UX & system design
+│   │
+│   ├── 01_WEB_FOUNDATIONS/              # HTML, CSS, JS fundamentals
+│   ├── 02_FRONTEND_PRODUCTS/            # SPA & component-based apps
+│   ├── 03_BACKEND_AND_APIS/             # Servers, APIs & authentication
+│   ├── 04_FULLSTACK_SYSTEMS/            # End-to-end web applications
+│   └── 05_PRODUCT_CAPSTONE/             # Production-ready product
 │
-├── shared/
-│   ├── ui-patterns/
-│   ├── animation-snippets/
-│   ├── utilities/
-│   └── documentation/
+├── shared/                              ♻️ Shared Utilities & References
+│   │
+│   ├── ui-patterns/                     # Reusable UI components
+│   ├── animation-snippets/              # Common animation utilities
+│   ├── utilities/                       # Helper functions & configs
+│   └── documentation/                   # Guides & best practices
 │
-├── ROADMAP.md
-├── CONTRIBUTING.md
-├── CODE_OF_CONDUCT.md
-└── README.md
+├── ROADMAP.md                           📅 Day-wise learning plan
+├── CONTRIBUTING.md                      🤝 Contribution guidelines
+├── CODE_OF_CONDUCT.md                   📜 Community guidelines
+└── README.md                            📖 Project overview
+
 </pre>
 <br/>
 <br/>
