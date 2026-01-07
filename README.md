@@ -75,11 +75,10 @@ How the web works
 
 365-Days-of-Web-development/
 │
-├── animation-track/                     🎬 Animation Web Development
-│   │
-│   ├── README.md                        # Track overview & goals
-│   ├── gallery-log.md                   # GIFs / screenshots
-│   ├── animation-resources.md           # Motion principles
+├── animation-track/        🎬 Animation Web Development
+│   ├── README.md           # Track overview & goals
+│   ├── gallery-log.md      # GIFs / screenshots
+│   ├── animation-resources.md
 │   │
 │   ├── 01_MOTION_FOUNDATIONS/
 │   ├── 02_UI_ANIMATION_SYSTEMS/
@@ -88,10 +87,9 @@ How the web works
 │   ├── 05_3D_AND_WEBGL/
 │   └── 06_ANIMATION_CAPSTONE/
 │
-├── product-track/                       🏗️ Product Web Development
-│   │
-│   ├── README.md                        # Track overview
-│   ├── product-resources.md             # Architecture & UX
+├── product-track/          🏗️ Product Web Development
+│   ├── README.md
+│   ├── product-resources.md
 │   │
 │   ├── 01_WEB_FOUNDATIONS/
 │   ├── 02_FRONTEND_PRODUCTS/
@@ -99,17 +97,16 @@ How the web works
 │   ├── 04_FULLSTACK_SYSTEMS/
 │   └── 05_PRODUCT_CAPSTONE/
 │
-├── shared/                              ♻️ Shared Resources
-│   │
+├── shared/                 ♻️ Shared Resources
 │   ├── ui-patterns/
 │   ├── animation-snippets/
 │   ├── utilities/
 │   └── documentation/
 │
-├── ROADMAP.md                           📅 Day-wise learning plan
-├── CONTRIBUTING.md                      🤝 Contribution rules
-├── CODE_OF_CONDUCT.md                   📜 Community guidelines
-└── README.md                            📖 Project overview
+├── ROADMAP.md              📅 Day-wise learning plan
+├── CONTRIBUTING.md         🤝 Contribution rules
+├── CODE_OF_CONDUCT.md      📜 Community guidelines
+└── README.md               📖 Project overview
 
 
 <br/>
