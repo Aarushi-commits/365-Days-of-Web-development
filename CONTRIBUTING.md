@@ -1,49 +1,54 @@
-🤝 Contributing Guidelines
-365 Days of Web Development (ECWoC)
+🤝 Contributing to 365 Days of Web Development
+ECWoC 2025 | Official Contribution Guide
 
-Thank you for your interest in contributing to 365 Days of Web Development.
-This document explains how to contribute correctly, the required structure, and the rules for ECWoC participation.
+Welcome! This document explains how to contribute, what structure to follow, and mandatory rules for contributors participating through ECWoC 2025.
 
-🚨 Important Rule
+🚨 Important Notice
 
-Do NOT open a Pull Request directly.
+❗ Do NOT open a Pull Request directly.
 
-All contributors must follow the process below.
-PRs that skip any step will be closed without review.
+All contributors must follow the defined workflow.
+Pull Requests that do not follow this process will be closed without review.
 
-🔁 Contribution Flow (Mandatory)
+🔁 Contribution Workflow (Mandatory)
 
-Create an Issue (Project Proposal)
+All contributions must follow this exact order:
 
-Wait for project allotment / approval
+📝 Create an Issue (Project Proposal)
 
-Start working only after assignment
+⏳ Wait for approval / allotment
 
-Submit a Pull Request
+🛠️ Start working after assignment
 
-🧾 Step 1: Create an Issue
+🚀 Submit a Pull Request
 
-Before writing any code, open a new Issue and include:
+🧾 Step 1: Create an Issue (Project Proposal)
 
-Track: Animation or Product
+Before writing any code, open a new Issue and clearly mention:
+
+Track:
+
+🎬 Animation
+
+🏗️ Product
 
 Phase & Day number
 
 Project title
 
-Short project description
+Short description of what you plan to build
 
-Tech stack
+Tech stack you will use
 
-This helps:
+✅ Why this is required
 
-avoid duplicate work
+Prevents duplicate contributions
 
-maintain roadmap quality
+Helps maintain roadmap quality
 
-ensure fair ECWoC allotment
+Ensures fair project allotment (ECWoC rule)
 
-🛠 Step 2: Setup & Work (Terminal Commands)
+🛠️ Step 2: Local Setup (Terminal Commands)
 🔹 Fork & Clone the Repository
 git clone https://github.com/<your-username>/365-Days-of-Web-development.git
 cd 365-Days-of-Web-development
@@ -56,9 +61,11 @@ Branch naming format:
 
 username-day-xx
 
-🎬 Animation Track — Required Structure
+Example: alex-day-45
 
-Use this structure strictly for animation projects:
+🎬 Animation Track — Required Project Structure
+
+Use this structure strictly for animation-based projects:
 
 animation-track/
 └── <PHASE_NAME>/
@@ -68,9 +75,21 @@ animation-track/
         ├── script.js   (if required)
         └── README.md
 
-🏗️ Product Track — Required Structure
+Animation Project README must include:
 
-Use this structure strictly for product projects:
+Project title
+
+Day number
+
+Objective
+
+Animation concepts used
+
+How to run the project
+
+🏗️ Product Track — Required Project Structure
+
+Use this structure strictly for product-based projects:
 
 product-track/
 └── <PHASE_NAME>/
@@ -79,39 +98,60 @@ product-track/
         ├── index.html
         ├── style.css
         ├── script.js
-        ├── server.js   (if backend)
-        ├── routes/     (if backend)
-        └── controllers/ (if backend)
+        ├── server.js        (if backend)
+        ├── routes/          (if backend)
+        └── controllers/     (if backend)
+
+Product Project README must include:
+
+Project title
+
+Day number
+
+Problem statement
+
+Features
+
+Tech stack
+
+How to run (frontend / backend)
 
 📝 Code Comments & Documentation (Mandatory)
 
-This repository is a learning roadmap, not just a code dump.
+This repository is a learning roadmap, not just a code archive.
 
-Contributors must:
+All contributors must:
 
-Add comments explaining why the code works
+🧠 Explain why the code works, not just what it does
 
-Comment:
+✍️ Add comments for:
 
 complex logic
 
 animations & calculations
 
-API flow & conditions
+API routes & data flow
 
-Use simple, beginner-friendly language
+authentication or validation logic
 
-PRs may be rejected if code lacks explanation.
+🗣️ Use simple, beginner-friendly language
 
-📦 Commit Rules
+📌 Pull Requests may be rejected if important logic is not explained.
 
-Use clear and meaningful commit messages.
+📦 Commit Message Guidelines
+
+Use clear, meaningful commit messages.
 
 git add .
-git commit -m "Day xx: short description of the work"
+git commit -m "Day xx: short, meaningful description"
 
+✅ Good Examples
 
-❌ Avoid messages like:
+Day 60: Scroll-based parallax landing page
+
+Day 112: JWT authentication API
+
+❌ Bad Examples
 
 update
 
@@ -121,29 +161,27 @@ done
 
 🚀 Step 3: Open a Pull Request
 
-When creating a PR:
+When creating your Pull Request:
 
-Mention the approved Issue number
+🔗 Reference the approved Issue number
 
-Mention track + phase + day
+📍 Mention track + phase + day
 
-Briefly explain what you built
+📝 Briefly explain what you built
 
-PRs without an approved Issue reference will be rejected.
+❗ PRs without an approved Issue reference will be rejected.
 
 ❌ What Will NOT Be Accepted
 
-PR without issue approval
+❌ Pull Requests without issue approval
 
-Copy-pasted tutorial code
+❌ Missing README.md
 
-Missing README.md
+❌ Breaking the folder structure
 
-Broken folder structure
+❌ Duplicate or low-effort submissions
 
-Duplicate or low-effort submissions
-
-🧠 Final Note
+🧠 Core Principles
 
 This project values:
 
@@ -153,4 +191,10 @@ Clarity over complexity
 
 Structure over randomness
 
-Follow the process, document your work, and be open to feedback.
+Consistency over shortcuts
+
+🙌 Final Note
+
+By contributing here, you are helping build a public learning roadmap for thousands of learners.
+
+Follow the process, document your work, and contribute with intent.
