@@ -1,109 +1,131 @@
-🌐 365 × 2 Web Development Roadmap
-Animation Engineering × Product Engineering
-<p align="center"> <b>A community-built, open-source roadmap for learning modern web development — step by step, project by project.</b> </p> <p align="center"> <img src="https://img.shields.io/github/stars/ORG_NAME/REPO_NAME?style=for-the-badge" /> <img src="https://img.shields.io/github/forks/ORG_NAME/REPO_NAME?style=for-the-badge" /> <img src="https://img.shields.io/github/contributors/ORG_NAME/REPO_NAME?style=for-the-badge" /> <img src="https://img.shields.io/github/commit-activity/m/ORG_NAME/REPO_NAME?style=for-the-badge" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Open%20Source-EcWoc-orange?style=for-the-badge" /> <img src="https://img.shields.io/badge/Roadmap-365%20Days-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Tracks-Animation%20%7C%20Product-purple?style=for-the-badge" /> </p>
-📌 What This Repository Is
+🌐 365 × 2 Days of Web Development
+🎬 Animation Engineering × 🏗️ Product Engineering
+<p align="center"> <b>📍 A structured, open-source roadmap to learn modern web development — the right way.</b> </p> <p align="center"> <img src="https://img.shields.io/github/stars/Aarushi-commits/365-Days-of-Web-development?style=for-the-badge" /> <img src="https://img.shields.io/github/forks/Aarushi-commits/365-Days-of-Web-development?style=for-the-badge" /> <img src="https://img.shields.io/github/contributors/Aarushi-commits/365-Days-of-Web-development?style=for-the-badge" /> <img src="https://img.shields.io/github/commit-activity/m/Aarushi-commits/365-Days-of-Web-development?style=for-the-badge" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Open%20Source-EcWoc-orange?style=for-the-badge" /> <img src="https://img.shields.io/badge/Roadmap-365%20×%202%20Days-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Tracks-Animation%20%7C%20Product-purple?style=for-the-badge" /> </p>
+✨ What is this repository?
 
-This repository defines a clear, structured roadmap for anyone who wants to learn web development properly — not randomly.
+This repository is a public, open-source roadmap for anyone who wants to learn web development in a structured and practical way.
 
-Instead of tutorials scattered across the internet, this repo provides:
+Instead of:
+❌ random tutorials
+❌ disconnected projects
+❌ framework-hopping
 
-Day-wise, project-based learning
+This roadmap focuses on:
 
-Real-world concepts in the right order
+✅ clear progression
 
-A roadmap you can follow, reference, or contribute to
+✅ learning by building
 
-It is designed to be used, not just starred.
+✅ real-world skills
 
-🧭 Two Parallel Learning Tracks
+✅ long-term consistency
+
+You can follow it, fork it, or contribute to improving it.
+
+🧭 Why “365 × 2”?
+
+Because modern web developers need two equally important skills:
+
 🎬 Animation Web Development
 
-Focuses on how the web feels:
+How the web feels
 
-UI motion & micro-interactions
+✨ UI motion & micro-interactions
 
-Scroll-based storytelling
+🌀 Scroll-based storytelling
 
-SVG, Canvas, WebGL
+🎨 SVG, Canvas & WebGL
 
-Performance-aware animations
+⚡ Performance-aware animations
 
 🏗️ Product Web Development
 
-Focuses on how the web works:
+How the web works
 
-Frontend applications
+🧩 Frontend applications
 
-Backend APIs
+🔌 Backend APIs
 
-Authentication & data flow
+🔐 Authentication & data flow
 
-Full-stack systems & deployment
+🚀 Full-stack systems & deployment
 
-Both tracks progress in parallel inside the same repository.
+👉 Both tracks run in parallel, inside one repository.
 
-🗂️ Repository Layout
-365x2-web-development/
+🗂️ Repository Structure
+365-Days-of-Web-development/
 │
-├── animation-track/        # Motion, interaction, visuals
-├── product-track/          # Real-world applications & systems
-├── shared/                 # Reusable patterns & utilities
+├── animation-track/        🎬  UI motion & visual engineering
+├── product-track/          🏗️  Real-world web applications
+├── shared/                 ♻️  Reusable patterns & utilities
 │
-├── ROADMAP.md              # Day-wise learning plan
-├── CONTRIBUTING.md         # How to contribute properly
+├── ROADMAP.md              📅  Day-wise learning plan
+├── CONTRIBUTING.md         🤝  Contribution guidelines
 └── README.md
 
 
-Each track is divided into phases, and each phase contains day-wise projects with clear goals.
+📁 Each track is divided into phases
+📆 Each phase contains day-wise projects
+📝 Each project includes code + a short explanation
 
-📅 How to Use This Roadmap
+📅 How to use this roadmap
 
-Follow it day-by-day
+You can use this repository in any of these ways:
 
-Or jump to any phase you need
+🔁 Follow it day-by-day
 
-Or use it as a skills checklist
+⏩ Jump to any phase you need
 
-There are no deadlines — the roadmap is self-paced.
+📋 Use it as a skills checklist
 
-🤝 Contributions & Community
+🧠 Reference it while building your own projects
 
-This roadmap is maintained through open-source contributions.
+⏳ No deadlines. No pressure. Fully self-paced.
+
+🤝 Contributing
+
+This roadmap grows through community contributions.
 
 You can contribute by:
 
-Adding new projects
+🧩 Adding new projects
 
-Improving documentation
+📝 Improving documentation
 
-Refining the roadmap order
+🛠️ Refining project structure
 
-Reviewing and improving existing solutions
+🔍 Reviewing existing work
 
-All meaningful contributions count.
+All meaningful contributions are welcome.
 
-➡️ See CONTRIBUTING.md for rules.
+➡️ Please read CONTRIBUTING.md before opening a PR.
 
-🎯 Why This Exists
+🎯 Why this roadmap exists
 
-Most people fail at web development because they:
+Many learners struggle because:
 
-Learn tools before fundamentals
+They don’t know what to learn next
 
-Skip important concepts
+They skip fundamentals
 
-Build without understanding progression
+They build without structure
 
-This repository exists to fix that.
+This repository exists to:
 
-⭐ Getting Started
+✅ provide clarity
 
-Star the repository
+✅ enforce order
 
-Open ROADMAP.md
+✅ encourage real building
 
-Pick a track
+🚀 Getting Started
 
-Start building
+⭐ Star the repository
 
-<p align="center"> <b>Learn systematically. Build consistently. Grow publicly.</b> </p>
+📖 Open ROADMAP.md
+
+🎯 Choose a track (or both)
+
+🛠️ Start building
+
+<p align="center"> <b>Learn systematically. Build consistently. Grow in public. 🌱</b> </p>
