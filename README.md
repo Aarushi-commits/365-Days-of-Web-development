@@ -1,101 +1,109 @@
 🌐 365 × 2 Web Development Roadmap
-
 Animation Engineering × Product Engineering
-
-An open-source repository that defines a structured learning roadmap for modern web development.
-This project is meant to be used as a reference curriculum, not just a code dump.
-
+<p align="center"> <b>A community-built, open-source roadmap for learning modern web development — step by step, project by project.</b> </p> <p align="center"> <img src="https://img.shields.io/github/stars/ORG_NAME/REPO_NAME?style=for-the-badge" /> <img src="https://img.shields.io/github/forks/ORG_NAME/REPO_NAME?style=for-the-badge" /> <img src="https://img.shields.io/github/contributors/ORG_NAME/REPO_NAME?style=for-the-badge" /> <img src="https://img.shields.io/github/commit-activity/m/ORG_NAME/REPO_NAME?style=for-the-badge" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Open%20Source-EcWoc-orange?style=for-the-badge" /> <img src="https://img.shields.io/badge/Roadmap-365%20Days-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Tracks-Animation%20%7C%20Product-purple?style=for-the-badge" /> </p>
 📌 What This Repository Is
 
-This repository provides:
+This repository defines a clear, structured roadmap for anyone who wants to learn web development properly — not randomly.
 
-A clear, project-based roadmap for learning web development
+Instead of tutorials scattered across the internet, this repo provides:
 
-Day-wise, phase-wise progression
+Day-wise, project-based learning
 
-Real projects instead of isolated tutorials
+Real-world concepts in the right order
 
-Coverage of both UI motion and product engineering
+A roadmap you can follow, reference, or contribute to
 
-Anyone can follow this roadmap independently, at their own pace.
+It is designed to be used, not just starred.
 
-🧭 Why Two Tracks?
+🧭 Two Parallel Learning Tracks
+🎬 Animation Web Development
 
-Modern web developers need to understand both experience and engineering.
+Focuses on how the web feels:
 
-🎬 Animation Track
+UI motion & micro-interactions
 
-Covers:
+Scroll-based storytelling
 
-UI motion and micro-interactions
-
-Scroll-based effects
-
-SVG, Canvas, and WebGL
+SVG, Canvas, WebGL
 
 Performance-aware animations
 
-🏗️ Product Track
+🏗️ Product Web Development
 
-Covers:
+Focuses on how the web works:
 
 Frontend applications
 
 Backend APIs
 
-Authentication and data flow
+Authentication & data flow
 
-Full-stack systems and deployment
+Full-stack systems & deployment
 
-Both tracks live in the same repository and progress in parallel.
+Both tracks progress in parallel inside the same repository.
 
-🗂️ Repository Structure (Simplified)
+🗂️ Repository Layout
 365x2-web-development/
 │
-├── animation-track/
-│   ├── 01_MOTION_FOUNDATIONS/
-│   ├── 02_UI_ANIMATION_SYSTEMS/
-│   ├── 03_SCROLL_AND_STORYTELLING/
-│   ├── 04_CANVAS_AND_SVG/
-│   ├── 05_3D_AND_WEBGL/
-│   └── 06_ANIMATION_CAPSTONE/
+├── animation-track/        # Motion, interaction, visuals
+├── product-track/          # Real-world applications & systems
+├── shared/                 # Reusable patterns & utilities
 │
-├── product-track/
-│   ├── 01_WEB_FOUNDATIONS/
-│   ├── 02_FRONTEND_PRODUCTS/
-│   ├── 03_BACKEND_AND_APIS/
-│   ├── 04_FULLSTACK_SYSTEMS/
-│   └── 05_PRODUCT_CAPSTONE/
-│
-├── ROADMAP.md
-├── CONTRIBUTING.md
-└── shared/
+├── ROADMAP.md              # Day-wise learning plan
+├── CONTRIBUTING.md         # How to contribute properly
+└── README.md
 
 
-Each folder contains day-wise projects, with code and a short explanation.
+Each track is divided into phases, and each phase contains day-wise projects with clear goals.
 
-📅 How to Use This Roadmap 
+📅 How to Use This Roadmap
 
-Follow it day-by-day or phase-by-phase
+Follow it day-by-day
 
-Skip ahead if you already know a topic
+Or jump to any phase you need
 
-Use it as a checklist for skills, not a deadline
+Or use it as a skills checklist
 
-The roadmap is self-paced.
+There are no deadlines — the roadmap is self-paced.
 
-🤝 Contributing
+🤝 Contributions & Community
 
-Contributions are welcome if they:
+This roadmap is maintained through open-source contributions.
 
-Fit the learning progression
+You can contribute by:
 
-Are clearly documented
+Adding new projects
 
-Add educational value
+Improving documentation
 
-Please read CONTRIBUTING.md before opening a PR.
+Refining the roadmap order
 
-🎯 Goal of This Project
+Reviewing and improving existing solutions
 
-To maintain a clear, open, and practical roadmap that helps people learn web development the right way — by building real things in the right order.
+All meaningful contributions count.
+
+➡️ See CONTRIBUTING.md for rules.
+
+🎯 Why This Exists
+
+Most people fail at web development because they:
+
+Learn tools before fundamentals
+
+Skip important concepts
+
+Build without understanding progression
+
+This repository exists to fix that.
+
+⭐ Getting Started
+
+Star the repository
+
+Open ROADMAP.md
+
+Pick a track
+
+Start building
+
+<p align="center"> <b>Learn systematically. Build consistently. Grow publicly.</b> </p>
