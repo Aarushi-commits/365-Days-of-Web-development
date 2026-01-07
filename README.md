@@ -72,7 +72,7 @@ How the web works
 👉 Both tracks run in parallel, inside one repository.
 
 <br/>
-
+```
 365-Days-of-Web-development/
 │
 ├── animation-track/        🎬 Animation Web Development
@@ -107,7 +107,7 @@ How the web works
 ├── CONTRIBUTING.md         🤝 Contribution rules
 ├── CODE_OF_CONDUCT.md      📜 Community guidelines
 └── README.md               📖 Project overview
-
+```
 
 <br/>
 <br/>
