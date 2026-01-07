@@ -72,6 +72,7 @@ How the web works
 👉 Both tracks run in parallel, inside one repository.
 
 <br/>
+<pre>
 365-Days-of-Web-development/
 │
 ├── animation-track/
@@ -104,7 +105,7 @@ How the web works
 ├── CONTRIBUTING.md
 ├── CODE_OF_CONDUCT.md
 └── README.md
-
+</pre>
 <br/>
 <br/>
 📅 How to use this roadmap
