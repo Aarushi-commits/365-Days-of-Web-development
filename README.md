@@ -51,6 +51,6 @@
 ├── CONTRIBUTING.md                      🤝 Contribution guidelines
 ├── CODE_OF_CONDUCT.md                   📜 Community guidelines
 └── README.md                            📖 Project overview
-📖 Project overview </pre> <p> Each track is divided into <b>phases</b>, and each phase contains <b>day-wise projects</b> with clear goals. </p> <hr/>
+</pre> <p> Each track is divided into <b>phases</b>, and each phase contains <b>day-wise projects</b> with clear goals. </p> <hr/>
 🚀 Getting Started
 <ol> <li>⭐ Star the repository</li> <li>📖 Read <b>ROADMAP.md</b></li> <li>🎯 Choose a track (or both)</li> <li>🛠 Start building</li> </ol> <hr/> <div align="center"> <b> Learn systematically.<br/> Build consistently.<br/> Grow in public. 🌱 </b> </div>
