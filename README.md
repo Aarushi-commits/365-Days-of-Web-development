@@ -1,189 +1,20 @@
-🌐 365 × 2 Days of Web Development
+🌐 365 Days of Web Development
 🎬 Animation Engineering × 🏗️ Product Engineering
-<p align="center"> <b>📍 A structured, open-source roadmap to learn modern web development — the right way.</b> </p> <br/> <p align="center"> <img src="https://img.shields.io/github/stars/Aarushi-commits/365-Days-of-Web-development?style=for-the-badge" /> <img src="https://img.shields.io/github/forks/Aarushi-commits/365-Days-of-Web-development?style=for-the-badge" /> <img src="https://img.shields.io/github/contributors/Aarushi-commits/365-Days-of-Web-development?style=for-the-badge" /> <img src="https://img.shields.io/github/commit-activity/m/Aarushi-commits/365-Days-of-Web-development?style=for-the-badge" /> </p> <br/> <p align="center"> <img src="https://img.shields.io/badge/Open%20Source-EcWoc-orange?style=for-the-badge" /> <img src="https://img.shields.io/badge/Roadmap-365%20×%202%20Days-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Tracks-Animation%20%7C%20Product-purple?style=for-the-badge" /> </p>
-<br/>
-✨ What is this repository?
-
-This repository is a public, open-source roadmap for anyone who wants to learn web development in a structured and practical way.
-
-<br/>
-
-Instead of:
-
-❌ random tutorials
-
-❌ disconnected projects
-
-❌ framework hopping
-
-<br/>
-
-This roadmap focuses on:
-
-✅ clear progression
-
-✅ learning by building
-
-✅ real-world skills
-
-✅ long-term consistency
-
-<br/>
-
-You can follow it, fork it, or contribute to improving it.
-
-<br/>
-🧭 Why “365 × 2”?
-
-Modern web development has two equally important dimensions.
-
-<br/>
+<p> A <b>structured, open-source roadmap</b> to learn modern web development through <b>real projects</b>, <b>clear progression</b>, and <b>consistent building</b>. </p> <br/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Open%20Source-EcWoc-orange?style=for-the-badge" /> <img src="https://img.shields.io/github/stars/Aarushi-commits/365-Days-of-Web-development?style=for-the-badge" /> </div> <hr/>
+📌 About This Roadmap
+<p> This repository is an <b>open-source learning roadmap</b> for anyone who wants to learn <b>web development properly</b> — with structure, depth, and clarity. </p> <p> Instead of jumping between random tutorials, this roadmap focuses on: </p> <ul> <li>✅ <b>Day-wise learning progression</b></li> <li>✅ <b>Project-based learning</b></li> <li>✅ <b>Strong fundamentals before frameworks</b></li> <li>✅ <b>Public, portfolio-ready work</b></li> </ul> <hr/>
+✨ What Makes This Repository Different?
+<ul> <li>📅 <b>365-day structured roadmap</b></li> <li>🎬 <b>Animation + Product development</b> in one place</li> <li>🧩 <b>Real-world projects</b>, not toy demos</li> <li>📂 <b>Clean, scalable folder structure</b></li> <li>🌍 <b>Community-driven open source</b></li> </ul> <hr/>
+🧭 Two Parallel Learning Tracks
 🎬 Animation Web Development
-
-How the web feels
-
-<br/>
-
-✨ UI motion & micro-interactions
-
-🌀 Scroll-based storytelling
-
-🎨 SVG, Canvas & WebGL
-
-⚡ Performance-aware animations
-
-<br/>
+<p><b>Focus:</b> How the web <i>feels</i></p> <ul> <li>✨ UI micro-interactions</li> <li>🌀 Scroll-based animations</li> <li>🎨 SVG, Canvas & WebGL</li> <li>⚡ Performance-friendly motion</li> </ul> <br/>
 🏗️ Product Web Development
-
-How the web works
-
-<br/>
-
-🧩 Frontend applications
-
-🔌 Backend APIs
-
-🔐 Authentication & data flow
-
-🚀 Full-stack systems & deployment
-
-<br/>
-
-👉 Both tracks run in parallel, inside one repository.
-
-<br/>
-<pre>
-365-Days-of-Web-development/
-│
-├── animation-track/                     🎬 Animation Web Development
-│   │
-│   ├── README.md                        # Track overview & learning goals
-│   ├── gallery-log.md                   # GIFs / screenshots of outputs
-│   ├── animation-resources.md           # Motion principles & references
-│   │
-│   ├── 01_MOTION_FOUNDATIONS/           # CSS animations & micro-interactions
-│   ├── 02_UI_ANIMATION_SYSTEMS/         # Reusable UI motion patterns
-│   ├── 03_SCROLL_AND_STORYTELLING/      # Scroll-triggered experiences
-│   ├── 04_CANVAS_AND_SVG/               # Canvas, SVG & data-driven visuals
-│   ├── 05_3D_AND_WEBGL/                 # 3D scenes & WebGL experiments
-│   └── 06_ANIMATION_CAPSTONE/           # Large-scale animation projects
-│
-├── product-track/                       🏗️ Product Web Development
-│   │
-│   ├── README.md                        # Track overview & expectations
-│   ├── product-resources.md             # Architecture, UX & system design
-│   │
-│   ├── 01_WEB_FOUNDATIONS/              # HTML, CSS, JS fundamentals
-│   ├── 02_FRONTEND_PRODUCTS/            # SPA & component-based apps
-│   ├── 03_BACKEND_AND_APIS/             # Servers, APIs & authentication
-│   ├── 04_FULLSTACK_SYSTEMS/            # End-to-end web applications
-│   └── 05_PRODUCT_CAPSTONE/             # Production-ready product
-│
-├── shared/                              ♻️ Shared Utilities & References
-│   │
-│   ├── ui-patterns/                     # Reusable UI components
-│   ├── animation-snippets/              # Common animation utilities
-│   ├── utilities/                       # Helper functions & configs
-│   └── documentation/                   # Guides & best practices
-│
-├── ROADMAP.md                           📅 Day-wise learning plan
-├── CONTRIBUTING.md                      🤝 Contribution guidelines
-├── CODE_OF_CONDUCT.md                   📜 Community guidelines
-└── README.md                            📖 Project overview
-
-</pre>
-<br/>
-<br/>
-📅 How to use this roadmap
-
-You can use this repository in multiple ways:
-
-<br/>
-
-🔁 Follow it day-by-day
-
-⏩ Jump directly to a specific phase
-
-📋 Use it as a skill checklist
-
-🧠 Reference it while building your own projects
-
-<br/>
-
-⏳ No deadlines. Fully self-paced.
-
-<br/>
+<p><b>Focus:</b> How the web <i>works</i></p> <ul> <li>🧩 Frontend applications</li> <li>🔌 Backend APIs</li> <li>🔐 Authentication & authorization</li> <li>🚀 Full-stack systems</li> </ul> <hr/>
+📂 Repository Structure
+<pre> 365-Days-of-Web-development/ │ ├── animation-track/ 🎬 UI motion & visual engineering ├── product-track/ 🏗️ Real-world web applications ├── shared/ ♻️ Reusable patterns & utilities │ ├── ROADMAP.md 📅 Day-wise learning plan ├── CONTRIBUTING.md 🤝 Contribution guidelines └── README.md 📖 Project overview </pre> <p> Each track is divided into <b>phases</b>, and each phase contains <b>day-wise projects</b> with clear goals. </p> <hr/>
+🎯 Roadmap Goals
+<ul> <li>✅ Build responsive, accessible websites</li> <li>✅ Create smooth and meaningful animations</li> <li>✅ Understand frontend and backend architecture</li> <li>✅ Build complete full-stack products</li> <li>✅ Maintain a strong public GitHub portfolio</li> </ul> <hr/>
 🤝 Contributing
-
-This roadmap improves through community contributions.
-
-<br/>
-
-You can contribute by:
-
-🧩 Adding new projects
-
-📝 Improving documentation
-
-🛠️ Refining structure
-
-🔍 Reviewing existing work
-
-<br/>
-
-➡️ Please read CONTRIBUTING.md before opening a PR.
-
-<br/>
-🎯 Why this roadmap exists
-
-Many learners struggle because:
-
-They don’t know what to learn next
-
-They skip fundamentals
-
-They build without structure
-
-<br/>
-
-This repository exists to:
-
-✅ provide clarity
-
-✅ enforce learning order
-
-✅ encourage real project building
-
-<br/>
+<p> This roadmap grows through <b>open-source collaboration</b>. </p> <ul> <li>⭐ Star the repository</li> <li>🍴 Fork and follow the roadmap</li> <li>🛠 Improve documentation or structure</li> <li>🔁 Submit meaningful pull requests</li> </ul> <p> Please read <b>CONTRIBUTING.md</b> before opening a PR. </p> <hr/>
 🚀 Getting Started
-<br/>
-
-⭐ Star the repository
-
-📖 Open ROADMAP.md
-
-🎯 Choose a track (or both)
-
-🛠️ Start building
-
-<br/> <p align="center"> <b> Learn systematically.<br/> Build consistently.<br/> Grow in public. 🌱 </b> </p>
+<ol> <li>⭐ Star the repository</li> <li>📖 Read <b>ROADMAP.md</b></li> <li>🎯 Choose a track (or both)</li> <li>🛠 Start building</li> </ol> <hr/> <div align="center"> <b> Learn systematically.<br/> Build consistently.<br/> Grow in public. 🌱 </b> </div>
